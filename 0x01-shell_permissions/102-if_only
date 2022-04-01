@@ -1,0 +1,2 @@
+#!/bin/bashh
+sudo chown --from=guillame betty hello
