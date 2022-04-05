@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -C3 -A "root" /etc/passwd 
+find /etc/passwd -type f | xargs grep -n -C3  root
