@@ -1,0 +1,1 @@
+alias to run rm*
